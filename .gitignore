@@ -1,0 +1,7 @@
+*.sqlite
+.env
+.vercel
+node_modules/
+vendor/
+.DS_Store
+Thumbs.db

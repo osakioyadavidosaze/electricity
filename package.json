@@ -1,0 +1,13 @@
+{
+  "name": "osaze-energy",
+  "version": "1.0.0",
+  "description": "Osaze Energy - Reliable Power Solutions",
+  "main": "index.php",
+  "scripts": {
+    "dev": "php -S localhost:8000",
+    "build": "echo 'Build complete'"
+  },
+  "keywords": ["electricity", "energy", "billing", "pwa"],
+  "author": "Osaze Energy",
+  "license": "MIT"
+}
